@@ -3,7 +3,7 @@
 A full-stack web application where users can visualize AI interactions using **React Flow**. Users input a prompt, the system fetches a response via **OpenRouter (Gemini/Mistral)**, connects the nodes visually, and saves the data to **MongoDB**.
 
 ## 🚀 Live Demo
-- **Frontend URL:** https:mern-app-tau-three.vercel.app
+- **Frontend URL:** https://mern-app-tau-three.vercel.app
 - **Backend URL:** https://mern-app-backend-o0ft.onrender.com
 
 ---
